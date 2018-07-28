@@ -3,8 +3,8 @@
 #include<PubSubClient.h>
 
 //Credentials for WiFi and mqtt server
-const char* ssid = "";//"";
-const char* password = "";//"";
+const char* ssid = "";
+const char* password = "";
 const char* mqtt_server = "iot.eclipse.org";
 int port = 1883;
 
